@@ -1,0 +1,8 @@
+# CommandAlert developed by TheHarofreak
+CommandAlert:
+    Block: true
+    Message: '&4This command has been blocked!'
+    BlockedCommands:
+        - /test
+        - /test2
+        - /test3
